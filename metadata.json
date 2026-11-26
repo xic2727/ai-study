@@ -1,0 +1,8 @@
+{
+  "name": "AI通识小博士 · 二年级竞赛训练营",
+  "description": "面向小学二年级学生的AI通识竞赛全点击交互学习与进度追踪工具，提供智能靶向练习、套卷模拟、错题巩固、智能台灯实验与通俗逻辑讲解。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
